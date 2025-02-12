@@ -1,0 +1,17 @@
+Form cheatsheet
+
+<form> one per pahe, inputs inside this tag get saved 
+<input> as many inputs as questions 
+      <input attribute= "something'> as many attributes as need open tag;
+      like text email passowrd color tuns of types
+
+type= 'sumbut' one per page,inside form tags 
+name = '--' need a name to save the form data 
+value= '-' puts a value on the page = mulitple choice(radio) = dropdown(selet)
+
+
+
+
+
+  git config --global user.email "edwardtsogbe9@gmail.com"
+  git config --global user.name "edwardtsogbe"
